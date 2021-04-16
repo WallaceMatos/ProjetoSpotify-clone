@@ -8,3 +8,6 @@ Interface profissional sendo utilizado como linguagens HTML, CSS e BOOTSTRAP.
 
 # Layout Web
 
+![spotify](https://user-images.githubusercontent.com/75341726/115077584-b01edc80-9ed4-11eb-92d4-5726daa58518.png)
+![spotify2](https://user-images.githubusercontent.com/75341726/115077646-c88ef700-9ed4-11eb-83ef-14888660dbd8.png)
+
